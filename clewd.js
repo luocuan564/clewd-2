@@ -2,7 +2,7 @@
  * SET YOUR COOKIE HERE
  * @preserve
  */
-const Cookies = process.env.Cookies;
+const Cookies = 'intercom-device-id-lupk8zyo=56f0049a-e9d2-4971-a52d-95d5a75fb997; __cf_bm=O4AEQ4aeus4bgWnv4I_0x.yLCyCl8YsQKYD9qIJ9.aI-1690479454-0-ARRVlDN/InsgZGUPbgCMiJ9TFcg+6Uk38Pqw7M2aTyw8xnSD12N36zhh9Fa+Sd7U3gUvRnp+0tMqrs+dQLQQofg=; sessionKey=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; intercom-session-lupk8zyo=MU5Oa1FnclVVQ2xHTVI2Ry93Qy94d3JwY0ppcXRJeDhCNnhWZEVPY2lrVHlpRjNXM0MrNjNBemFRWlV0SWczdi0tUFJ3NW81QWFWMTIxMW13a3gxY2NGUT09--be52a3d59c802485f60e0a16ac27d66c427c797a';
 
 /**
 ## EXPERIMENTAL
